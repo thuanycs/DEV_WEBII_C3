@@ -1,0 +1,37 @@
+/* .home{
+    flex-wrap:nowrap;
+} */
+
+.prod{   
+background-color:#ffdeb0;
+}
+
+
+.prod:hover {    
+    background-color: #d68711 ;
+}    
+
+
+
+.dev{
+    background-color: #9adb9c ;
+        
+}
+        
+        
+.dev:hover{
+        
+            background-color: #4caf50 ;
+ }
+          
+ 
+    
+.git{
+    background-color:  #E6E8EB;
+   
+}
+
+
+
+
+

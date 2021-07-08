@@ -1,0 +1,11 @@
+.navbar {
+
+  float: top;
+}
+
+.card{ 
+  margin: 0 auto 0;
+  padding: 1rem;
+  width: 60rem;
+}
+
